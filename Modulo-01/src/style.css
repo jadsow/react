@@ -1,0 +1,48 @@
+body {
+    background-color: gray;
+}
+
+#paiLista {
+    border: 1px solid black; 
+    display: flex;
+    flex-direction: column;
+
+}
+
+li:first-child {
+    background-color: rgb(38, 0, 255);
+}
+
+li:nth-child(2) {
+    background-color: black;
+    color: white
+}
+
+#terceiroFilho {
+    background-color: aquamarine;
+}
+
+#quartoFilho {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 10px;
+}
+
+#quintoFilho {
+    padding: 2%;
+}
+
+#sextoFilho {
+    border: 1px solid black;
+}
+
+#oitavoFilho {
+    font-style: italic;
+}
+
+#nonoFilho {
+    align-self: center;
+}
+
+#decimoFilho {
+    background-color: darkorange;
+}
