@@ -100,4 +100,5 @@ const mapearTeclado = (evento) => {
     const teclaPermitida = () => Object.keys(mapaTeclado).indexOf(tecla) !== -1;
     if (teclaPermitida()) document.getElementById(mapaTeclado[tecla]).click();
 };
+
 document.addEventListener('keydown', mapearTeclado);
