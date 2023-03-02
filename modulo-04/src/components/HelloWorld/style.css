@@ -1,0 +1,46 @@
+.container {
+    background-color: rgb(88, 88, 84);
+    border-radius: 5%;
+    padding: 5px;
+}
+
+#filho1 {
+    color: red;
+    font-size: 30px
+} 
+#filho2 {
+    color: rgb(0, 255, 34);
+    font-size: 30px
+} 
+#filho3 {
+    color: rgb(0, 17, 255);
+    font-size: 30px
+} 
+#filho4 {
+    color: rgb(0, 255, 157);
+    font-size: 30px
+} 
+#filho5 {
+    color: rgb(208, 255, 0);
+    font-size: 30px
+} 
+#filho6 {
+    color: rgb(212, 0, 255);
+    font-size: 30px
+} 
+#filho7 {
+    color: rgb(240, 238, 236);
+    font-size: 30px
+} 
+#filho8 {
+    color: rgb(0, 153, 255);
+    font-size: 30px
+} 
+#filho9 {
+    color: rgb(2, 2, 2);
+    font-size: 30px
+} 
+#filho10 {
+    color: rgb(0, 217, 255);
+    font-size: 30px
+} 
